@@ -1,0 +1,33 @@
+Client_autogen/timestamp: \
+	/Users/ren/Documents/TheGame/Client/CMakeLists.txt \
+	/Users/ren/Documents/TheGame/Client/main.cpp \
+	/Users/ren/Documents/TheGame/build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6Config.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6Targets.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtFeature.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtFeatureCommon.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtInstallPaths.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicGitHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicSbomHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
+	/Users/ren/Qt/6.8.1/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+	/Users/ren/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
+	/Users/ren/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
+	/Users/ren/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
+	/Users/ren/Qt/Tools/CMake/CMake.app/Contents/bin/cmake
